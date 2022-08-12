@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 these lines have been aded after switching to the main franch
+=======
+this text is added into the file 1 on th esecond day of the assignment
+>>>>>>> 7c9bd424cd7391654fc446ea9a72913e52c04552
